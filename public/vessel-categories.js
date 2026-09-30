@@ -1,0 +1,1 @@
+globalThis.ForiVesselCategories={"unclassified": "未分類", "slender": "直身細瓶", "tapered": "錐形高瓶", "round": "窄頸圓肚瓶", "cylinder": "寬口圓筒瓶", "bowl": "碗型花器", "goblet": "高腳杯", "bouquet": "花束／包裝", "novelty": "造型花器", "vase": "待細分瓶型", "other": "其他"};

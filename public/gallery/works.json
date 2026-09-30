@@ -1,0 +1,58 @@
+[
+  {
+    "image": "gallery/Hana-01.jpg",
+    "alt": "暖橘花朵與粉色配花的弧形碗花",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "bowl"
+  },
+  {
+    "image": "gallery/Hana-02.jpg",
+    "alt": "白綠色花束與紙包裝",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "bouquet"
+  },
+  {
+    "image": "gallery/Hana-03.jpg",
+    "alt": "粉色與棕色花朵搭配黑色花器",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "cylinder"
+  },
+  {
+    "image": "gallery/Hana-04.jpg",
+    "alt": "酒紅與淡粉色花朵搭配淺灰花器",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "round"
+  },
+  {
+    "image": "gallery/Hana-05.jpg",
+    "alt": "紅色雞冠花與白色穗狀花材的碗花",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "bowl"
+  },
+  {
+    "image": "gallery/Hana-06.png",
+    "alt": "紅色玫瑰與紫紅花朵搭配白色花器",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "cylinder"
+  },
+  {
+    "image": "gallery/Hana-07.png",
+    "alt": "黃色向日葵與橘色花材搭配白色貴賓狗花器",
+    "creator": "Hana",
+    "collection": "Hana",
+    "published": true,
+    "vessel": "novelty"
+  }
+]
